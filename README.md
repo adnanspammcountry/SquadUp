@@ -17,14 +17,6 @@ SquadUp is a sports community website built as part of my frontend development j
 - JavaScript
 - Tailwind CSS
 
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone <your-repository-url>
-   ```
-2. Open the project folder.
-3. Open `index.html` in your browser.
 
 ## Purpose
 
